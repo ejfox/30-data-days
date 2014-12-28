@@ -17,6 +17,7 @@ There is an awesome project called [A Triangle Every Day](http://winkervsbecks.g
 - [ ] Participants are gathered. The goal is to have at least 7 participants, so everyone has at least 7 days between visualizations to think of and work on their ideas. If we can have more than 7, even better. 
 - [ ] One dataset is chosen by the group.
 +  Each day's visualization will consist of an .html file and a .js file and (optionally) a .css file- both of which will be numbered by the day. So Day One is 1.html and 1.js and 1.css
++ Files are added as a Pull Request on this repo
 +  Participants discuss the day's visualization on Slack
 
 ## Participants
