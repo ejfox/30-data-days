@@ -21,4 +21,5 @@ There is an awesome project called [A Triangle Every Day](http://winkervsbecks.g
 
 ## Participants
 + EJ Fox - ejfox.com
++ Sarah GP - sarahgp.com/
 + YOU!
